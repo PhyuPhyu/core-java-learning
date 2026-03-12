@@ -1,4 +1,4 @@
-# core-java-learning ☕
+# Core Java Learning ☕
 
 This repository contains my practice programs while learning Java fundamentals.
 
@@ -14,9 +14,11 @@ This repository contains my practice programs while learning Java fundamentals.
 ## How to Run
 
 Compile the Java program:
+
 `javac FileName.java`
 
 Run the program:
+
 `java FileName`
 
 ## Learning Goal
